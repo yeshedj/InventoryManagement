@@ -228,7 +228,7 @@ export default function Home() {
               fontFamily: 'Palatino, serif'
             }}
           >
-            Inventory Items
+            Inventory Items!
           </Typography>
         </Box>
 
